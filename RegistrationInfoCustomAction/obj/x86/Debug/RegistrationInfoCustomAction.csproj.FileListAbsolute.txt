@@ -1,0 +1,9 @@
+C:\Code\WiXUI\RegistrationInfoCustomAction\bin\Debug\RegistrationInfoCustomAction.dll
+C:\Code\WiXUI\RegistrationInfoCustomAction\bin\Debug\RegistrationInfoCustomAction.CA.dll
+C:\Code\WiXUI\RegistrationInfoCustomAction\bin\Debug\RegistrationInfoCustomAction.pdb
+C:\Code\WiXUI\RegistrationInfoCustomAction\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Code\WiXUI\RegistrationInfoCustomAction\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.csproj.CoreCompileInputs.cache
+C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.csproj.CopyComplete
+C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.dll
+C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.pdb

@@ -1,0 +1,4 @@
+C:\Code\WiXUI\WiXUI\PopulateCountryData\obj\x86\Debug\PopulateCountryData.csprojAssemblyReference.cache
+C:\Code\WiXUI\WiXUI\PopulateCountryData\obj\x86\Debug\PopulateCountryData.csproj.CoreCompileInputs.cache
+C:\Code\WiXUI\WiXUI\PopulateCountryData\obj\x86\Debug\PopulateCountryData.dll
+C:\Code\WiXUI\WiXUI\PopulateCountryData\obj\x86\Debug\PopulateCountryData.pdb

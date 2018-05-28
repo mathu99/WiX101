@@ -1,0 +1,9 @@
+C:\Code\WiXUI\WiXUI\PopulateCountries\obj\x86\Debug\PopulateCountries.csproj.CoreCompileInputs.cache
+C:\Code\WiXUI\WiXUI\PopulateCountries\bin\Debug\PopulateCountries.dll
+C:\Code\WiXUI\WiXUI\PopulateCountries\bin\Debug\PopulateCountries.CA.dll
+C:\Code\WiXUI\WiXUI\PopulateCountries\bin\Debug\PopulateCountries.pdb
+C:\Code\WiXUI\WiXUI\PopulateCountries\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Code\WiXUI\WiXUI\PopulateCountries\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Code\WiXUI\WiXUI\PopulateCountries\obj\x86\Debug\PopulateCountries.csproj.CopyComplete
+C:\Code\WiXUI\WiXUI\PopulateCountries\obj\x86\Debug\PopulateCountries.dll
+C:\Code\WiXUI\WiXUI\PopulateCountries\obj\x86\Debug\PopulateCountries.pdb
