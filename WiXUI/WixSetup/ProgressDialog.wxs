@@ -33,9 +33,9 @@
 
       </Dialog>
 
-      <InstallUISequence>
+      <!--<InstallUISequence>
         <Show Dialog="ProgressDialog" After="UserRegDialog" />
-      </InstallUISequence>
+      </InstallUISequence>-->
 
     </UI>
   </Fragment>

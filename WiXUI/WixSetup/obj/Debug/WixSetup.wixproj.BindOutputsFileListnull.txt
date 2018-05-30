@@ -1,2 +1,3 @@
+C:\Code\WiX101\WiXUI\WixSetup\bin\Debug\cab1.cab
 C:\Code\WiX101\WiXUI\WixSetup\bin\Debug\WixSetup.msi
 C:\Code\WiX101\WiXUI\WixSetup\bin\Debug\WixSetup.wixpdb

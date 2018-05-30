@@ -20,4 +20,3 @@ C:\Code\WiX101\WiXUI\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
 C:\Code\WiX101\WiXUI\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
 C:\Code\WiX101\WiXUI\WinApp\obj\Debug\WinApp.exe
 C:\Code\WiX101\WiXUI\WinApp\obj\Debug\WinApp.pdb
-C:\Code\WiX101\WiXUI\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache

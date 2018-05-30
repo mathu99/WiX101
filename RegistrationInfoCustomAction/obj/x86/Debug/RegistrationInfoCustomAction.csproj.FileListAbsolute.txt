@@ -7,3 +7,15 @@ C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomA
 C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.csproj.CopyComplete
 C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.dll
 C:\Code\WiXUI\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.pdb
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\RegistrationInfoCustomAction.dll
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\RegistrationInfoCustomAction.CA.dll
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\RegistrationInfoCustomAction.pdb
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\Newtonsoft.Json.dll
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\Newtonsoft.Json.xml
+C:\Code\WiX101\RegistrationInfoCustomAction\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+C:\Code\WiX101\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.csprojAssemblyReference.cache
+C:\Code\WiX101\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.csproj.CoreCompileInputs.cache
+C:\Code\WiX101\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.csproj.CopyComplete
+C:\Code\WiX101\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.dll
+C:\Code\WiX101\RegistrationInfoCustomAction\obj\x86\Debug\RegistrationInfoCustomAction.pdb

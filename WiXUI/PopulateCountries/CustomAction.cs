@@ -28,7 +28,7 @@ namespace PopulateCountries
             index++;
         }
 
-        private static async Task<string> getResponseAsync()
+        private static async Task<string> GetResponseAsync()
         {
             var url = "http://localhost:9998/api/servers";
             var responseMsg = "Error";
@@ -43,9 +43,11 @@ namespace PopulateCountries
         [CustomAction]
         public static ActionResult FillList(Session xiSession)
         {
+            /* View view = xiSession.Database.OpenView("DELETE FROM ComboBox WHERE ComboBox.Property='COUNTRIES'");
+            view.Execute();*/
             try
             {
-                string countryJson = getResponseAsync().Result;
+                string countryJson = GetResponseAsync().Result;
                 if (!countryJson.Equals("Error"))
                 {
                     dynamic stuff = JsonConvert.DeserializeObject(countryJson);
@@ -60,6 +62,7 @@ namespace PopulateCountries
                 }
             } catch (Exception e)   /* TODO: Get this error out to screen: e.ToString() */
             {
+                Console.WriteLine(e.ToString());
                 FillComboBox(xiSession, "South Africa", "zaf-server");
             }
             return ActionResult.Success;

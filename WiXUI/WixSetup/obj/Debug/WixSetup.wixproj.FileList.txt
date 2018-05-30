@@ -1,5 +1,6 @@
 C:\Code\WiXUI\WiXUI\WixSetup\bin\Debug\WixSetup.msi
 C:\Code\WiXUI\WiXUI\WixSetup\bin\Debug\WixSetup.wixpdb
+C:\Code\WiX101\WiXUI\WixSetup\bin\Debug\cab1.cab
 C:\Code\WiX101\WiXUI\WixSetup\bin\Debug\WixSetup.msi
 C:\Code\WiX101\WiXUI\WixSetup\bin\Debug\WixSetup.wixpdb
 obj\Debug\Product.wixobj

@@ -31,8 +31,8 @@
 
     </UI>
 
-    <InstallUISequence>
+    <!--<InstallUISequence>
       <Show Dialog="SetupDialog" Before="ExecuteAction" />
-    </InstallUISequence>
+    </InstallUISequence>-->
   </Fragment>
 </Wix>
